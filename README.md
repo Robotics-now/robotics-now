@@ -3,6 +3,25 @@
 
 This is my github with everything that I have made. It includes my apps websites and other code which I developed. You can also watch videos on my chanel on <a href="https://www.youtube.com/channel/UCxsC1ILMdpNjnyczZKspeAA"> YouTube</a> [**.**](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Drobotics-now%26type%3Dusers)
 
+
+## Important Reposetories
+<span style="color: green">
+  <details>
+    <summary>OPEN Dictionary API</summary>
+    <br>
+    This is a free GET api that serves dictonary data. This includes:
+    <br>
+    <br>
+    - Definitions 
+    <br>
+    - Part Of Speech
+    <br>
+    - Synonyms
+    <br>
+    - Antonyms
+  </details>
+</span>
+
 ## Contributions
 - ****My reposetories → <a href="https://github.com/Robotics-now?tab=repositories"> My reposetories</a>****
 - Nasa APOD website → <a href="https://github.com/Robotics-now/NASA-apis"> Nasa-apis</a>
