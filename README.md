@@ -24,7 +24,7 @@ This is my github with everything that I have made. It includes my apps websites
 
 ## Contributions
 - ****My reposetories → <a href="https://github.com/Robotics-now?tab=repositories"> My reposetories</a>****
-- Localhost Manager → <a href="https://localhost-manager.roboticsnow.dpdns.org/#settings"> Localhost manager site</a>   <a href="https://github.com/Robotics-now/Localhost-Manager"> Localhost manager</a>
+- Localhost Manager → <a href="https://localhost-manager.roboticsnow.dpdns.org/#settings"> Localhost manager site</a> + <a href="https://github.com/Robotics-now/Localhost-Manager"> Localhost manager</a>
 
 - Nasa APOD website → <a href="https://github.com/Robotics-now/NASA-apis"> Nasa-apis</a>
 - ToDo app → <a href="https://github.com/Robotics-now/ToDo_app"> Todo_app</a>
